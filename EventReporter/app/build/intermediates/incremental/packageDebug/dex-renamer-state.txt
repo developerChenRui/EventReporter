@@ -1,0 +1,7 @@
+#Sun Aug 12 20:28:29 CST 2018
+base.0=/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e291d5afca45863c8d0318f9a5add3b35d1b1d67
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dda931525ec1ee05a3ff52a255810aee58406c23/classes.dex
+base.1=/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dda931525ec1ee05a3ff52a255810aee58406c23
+file.0=/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e291d5afca45863c8d0318f9a5add3b35d1b1d67/classes.dex

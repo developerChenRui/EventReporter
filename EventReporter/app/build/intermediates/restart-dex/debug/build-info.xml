@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="364076091548607"
+    token="1011355454861798109"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="376" />
+    <task
+        name="instant-run-dex"
+        duration="18" />
+    <task
+        name="instant-run-transform"
+        duration="46" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="363809833881954"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="364076091548607"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

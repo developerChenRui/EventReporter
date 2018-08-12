@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_4ad18b8e72d19b925bfec415dd1c6386e4fa7e39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-11.0.4_38d84a0e8625462b56fb72a397d24b1e158fa24d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-11.0.4_d9169227f70ff426f1d64e9d1ea5cf0132628fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.1.0_2c51a6d225e1a1fd29b702597abddeca786f45a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-11.0.4_8c072310a4e44143c1a4f2f37430aa81f9def3f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-11.0.4_7f3cf80920fab7dbd1044ccc39f63b14ff98315b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-11.0.4_e721fffcad003e892825e5d5048b79bd8459e2ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-11.0.4_3aefe651772cc0532f5f343838c8f2aebf01cc68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/transition/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-26.1.0_b06d068bf1167916f321a09e93c2ad486d68403b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-11.0.4_a00da7570c2c7a496b55a577c30064b2e90cf32c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-11.0.4_f11296bae7f42a88e5f03692759af6cf7315b77a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-26.1.0_471099f9285bbfd0efe81fef3deead134c874af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-11.0.4_2ef48cdbf8f65601d361099015eb233013cfcb75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.0.4_18af182286fa36bfba505659e02b1d53371ac393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-11.0.4_b593f9afebc21456b80ef3ad72a3cf71a22a02b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.1.0_a1837b5f0f4568171b83b8907a2cd772a3f91a1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-26.1.0_72e89754c7517d9d8f98e2abff34e2e48c6e4780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_5908725ae077d45693321ea50b8d08f964027391/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-runtime-1.0.0_7007cca6d5e01e029458023102ed8d5bbef8a171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.0.4_9441eadb516fe5a8ed7d8dfe72a384871d9a8738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.1.0_4d148264e78f9f4a2a75ebc685ff73c20169532f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-11.0.4_195c1b478ba3400fd8924df9581959b8e7cee2c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-26.1.0_5b65aeccf17e5009b86283b78608f3a5e07faa69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-11.0.4_891117e0283de247cce19099a37dd78c2c3d2042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.1.0_409f39d2bbc3d8df604b1cf9dec7f64565c28bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f39c8c47f8b12abe39ff133dcfcb93d6be1d1e73">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e291d5afca45863c8d0318f9a5add3b35d1b1d67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.1.0_eef339284723a18e380ef8866f3cb3d4fc47551e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.1.0_b29cbe37b347430953272f979fc7484e22201203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.1.0_19bbcbb5be06bf71858f0f850da3e02b06b495a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_74b6f40ab4743d2e66edc345881128887601947b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.1.0_3edc1c7866e102b20ac24b724ae035f47fcb9120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-11.0.4_ce2060d317f677d370480e4985ad87b6f831031a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-11.0.4_a3e89603cdde13a983fdabef94b2fd4e8795159e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-11.0.4_a9cd34043855eb46ecdedd980bcbd84c269e50fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-11.0.4_92917f946449b065e5f798e2ad875283b194ebb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-11.0.4_f42d050cee449add9a901b69707da21aee7b2dc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46eb6465ef7039b64a26ed064a66b2bfe27ef86b">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dda931525ec1ee05a3ff52a255810aee58406c23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.1.0_399a0b93c5ecab48a7e13cfe6e7e7875ff0ac296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/chenrui/Desktop/Android/mobileapp/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-11.0.4_8e84f5057736c4cf4ba33f7c0d17725278fb0462/classes.dex" />
+    </item>
+
+</items>
